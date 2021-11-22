@@ -1,0 +1,2 @@
+echo mahesh
+echo `date`
